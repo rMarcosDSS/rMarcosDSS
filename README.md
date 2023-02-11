@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Marcos ☂️
-
-Atualmente estudando JavaScript
-Desenvolvedor WEB
+<ul>
+  <li>Atualmente estudando JavaScript
+  <li>Desenvolvedor WEB
+</ul>
 <!--
 **MarcosRuanDev/MarcosRuanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

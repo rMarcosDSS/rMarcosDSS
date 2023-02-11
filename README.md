@@ -1,4 +1,4 @@
-### Olá! Eu sou o Marcos
+### Olá! Eu sou o Marcos ☂️
 
 Atualmente estudando JavaScript
 Desenvolvedor WEB
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosRuanDev&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosRuanDev&theme=tokyonight)

@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcos ☂️
 <ul>
-  <li>Atualmente estudando JavaScript
+  <li>Atualmente estou estudando JavaScript
   <li>Desenvolvedor WEB
 </ul>
 <!--

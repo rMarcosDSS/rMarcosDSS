@@ -1,10 +1,10 @@
-### Olá! Eu sou o Marcos Ruan☂️
+### Olá! Eu sou o Marcos Ruan!
 <ul>
   <li>Atualmente estou estudando JavaScript
   <li>Desenvolvedor WEB
 </ul>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosRuanDev&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rMarcosDSS&theme=tokyonight)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

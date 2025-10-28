@@ -1,4 +1,4 @@
-<img src="assets/banner-linkedin.png" alt="Banner do LinkedIn" width="100%">
+![Header](./banner.png)
 
 # Hi, I'm Marcos Ruan ✨
 

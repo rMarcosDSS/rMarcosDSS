@@ -3,7 +3,7 @@
 # Hi, I'm Marcos Ruan ✨
 
 
-<br>🎓 Information Systems student at EACH - University of São Paulo<br>💻 Focused on full-stack development<br>🚀 I build applications that combine performance, scalability, and a great user experience<br>🔧 Passionate about creating efficient solutions that connect technology and real-world impact
+<br>🎓 Information Systems student at University of São Paulo - EACH<br>💻 Focused on full-stack development<br>🚀 I build applications that combine performance, scalability, and a great user experience<br>🔧 Passionate about creating efficient solutions that connect technology and real-world impact
 
 
 ## 🌐 Socials:

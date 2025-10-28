@@ -1,7 +1,8 @@
-## Hi, I'm Marcos Ruan ✨
+<img src="assets/banner-linkedin.png" alt="Banner do LinkedIn" width="100%">
+
+# Hi, I'm Marcos Ruan ✨
 
 
-# 💫 About Me:
 <br>🎓 Information Systems student at EACH - University of São Paulo<br>💻 Focused on full-stack development<br>🚀 I build applications that combine performance, scalability, and a great user experience<br>🔧 Passionate about creating efficient solutions that connect technology and real-world impact
 
 

@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/99b5d021-cd37-4b5d-83ee-3a749c22e042)
+<img src="./Header.gif" width="100%">
 
 # Hi, I'm Marcos Ruan ✨
 

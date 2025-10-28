@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/7f1f803e-e9d2-44a3-9ac9-e1c969c125a9)
+![Header](https://github.com/user-attachments/assets/29a7a1d1-8c24-49ef-bad1-0d397a21c38c)
 
 # Hi, I'm Marcos Ruan ✨
 
